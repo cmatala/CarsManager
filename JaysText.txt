@@ -1,0 +1,40 @@
+7HIC342
+1906 Advance
+Advance Steam Traction Engine 0000
+Black and red
+Steam Engine
+06/20/1980
+12000.00
+22000.00
+False
+None
+7IEL129
+1941 American LaFrance
+Series 600 Pumper V12 4000
+Red
+Fire Engine
+10/10/2022
+30000.00
+45000.00
+False
+None
+7JAY229
+2009 Aston Martin
+DBS 43250
+Black
+Car
+11/12/2023
+30500.00
+42000.00
+False
+None
+7IMI034
+1989 Bentley
+Turbo R 43000
+Black
+Car
+09/29/2000
+8500.00
+21100.00
+True
+New Windshield
